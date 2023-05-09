@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccdca808bb1365044b4b39033a87f55e, type: 3}
+  m_Name: Los Relojes
+  m_EditorClassIdentifier: 
+  Id: 26
+  uiDisplay: {fileID: 21300000, guid: db427fab3e94daf4caa704d9314a77a1, type: 3}
+  type: 0
+  description: "Los relojes muestran la posici\xF3n de las palabras necesarias para
+    una pregunta. El reloj de la planta baja muestra la la posici\xF3n de la palabra
+    del libro Variables  como hora, mientras que el otro libro Base Shell, muestra
+    minutos. "
+  data:
+    Name: 
+    Id: -1
+    description: 
+    type: 0

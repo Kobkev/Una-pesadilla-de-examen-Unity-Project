@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccdca808bb1365044b4b39033a87f55e, type: 3}
+  m_Name: "Informaci\xF3n shell en C"
+  m_EditorClassIdentifier: 
+  Id: 13
+  uiDisplay: {fileID: 21300000, guid: ae496f5dad56ea645b72d374a0376368, type: 3}
+  type: 0
+  description: "Permite el alias de comandos, es decir, un usuario puede dar cualquier
+    nombre de su elecci\xF3n al comando. Esta funci\xF3n es principalmente \xFAtil
+    cuando un usuario tiene que escribir el comando largo una y otra vez. "
+  data:
+    Name: 
+    Id: -1
+    description: 
+    type: 0

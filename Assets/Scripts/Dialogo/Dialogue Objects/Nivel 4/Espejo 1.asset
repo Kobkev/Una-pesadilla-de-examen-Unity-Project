@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbc8a07e76f0ea47bdeb81cf16919c3, type: 3}
+  m_Name: Espejo 1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hay algo escrito sobre el espejo...
+  - '"Bucle For"'
+  - '"Se ejecuta al menos una ves - 15"
+
+'
+  - '"Se ejecuta unicamente con ingreso del usuario - 18"
+
+'
+  - '"Se ejecuta hasta que el resultado regrese falso - 8"
+
+'
+  - "\"Es el bucle m\xE1s utilizado - 3\"\n"
+  - '"Se ejecuta una infinidad de veces - 21"
+
+'

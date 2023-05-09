@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ece59974c01a034998d8d1c67689eec, type: 3}
+  m_Name: "Segunda nota due\xF1o"
+  m_EditorClassIdentifier: 
+  mensajePregunta: "Aqu\xED hay otra nota por parte del due\xF1o de este cementerio...\n\n\tDespu\xE9s
+    de el error que com\xE9ti, intent\xE9 usar un manual como ayuda para corregir
+    mi error. Trat\xE9 de cambiar el directorio para saber si alg\xFAn otro archivo
+    sobrevivi\xF3. Como no encontr\xE9 nada, movi mi propio archivo en el lugar que
+    borr\xE9 y lo compar\xE9 con el archivo que existia anteriormente para ver si
+    habian diferencias entre los archivos para asi poder ocultar mi transgresi\xF3n.\n\n(Contestar
+    los comandos usados en min\xFAsuculas utilizando \xFAnucamente un \"-\" como
+    separaci\xF3n entre comandos.)"
+  contrasena: man-cd-mov-diff

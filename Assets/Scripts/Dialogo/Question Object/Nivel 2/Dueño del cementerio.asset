@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ece59974c01a034998d8d1c67689eec, type: 3}
+  m_Name: "Due\xF1o del cementerio"
+  m_EditorClassIdentifier: 
+  mensajePregunta: "El due\xF1o de este cementerio dej\xF3 una nota...\n\nPara las
+    almas que descansan aqui. Estos fue lo  que hice para terminar descansando entre
+    ustedes.\n\n\tQuer\xEDa mostrar el nombre del dispositivo para saber a quien
+    incriminar. Intent\xE9 ver todos los archivos del directorio actual. De ahi,
+    chequ\xE9 uno de los archivos para ver que conten\xEDan. \n\tFurioso con lo que
+    encontr\xE9, decid\xED checar cada uno de los archivos en el caso de que contenian
+    mi nombre. Estando en mi modo de frustraci\xF3n, decid\xED borrar el directorio
+    completo para desquitarme. Poco sab\xEDa que eso terminar\xEDa siendo un error
+    grave mio...\n\n(Contestar los comandos usados en min\xFAsuculas utilizando \xFAnucamente
+    un \"-\" como separaci\xF3n entre comandos.)\n"
+  contrasena: tty-ls-cat-grep-rmdir

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ece59974c01a034998d8d1c67689eec, type: 3}
+  m_Name: La hora
+  m_EditorClassIdentifier: 
+  mensajePregunta: "La hora oculta una arma poderosa para la programaci\xF3n en shell.
+    \xBFCual es esa arma?\n\n(Contestar \xFAnicamente en min\xFAsculas y separado
+    por un \"-\" de manera ordenada alfab\xE9ticamente)"
+  contrasena: scripting-archivo

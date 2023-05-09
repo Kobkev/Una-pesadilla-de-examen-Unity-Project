@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbc8a07e76f0ea47bdeb81cf16919c3, type: 3}
+  m_Name: Espejos
+  m_EditorClassIdentifier: 
+  dialogue:
+  - La nota tiene algo escrito...
+  - "\"En los espejos del ba\xF1o escondi la combinaci[on para poder conseguir la
+    llave del sal\xF3n.\""
+  - '"Cada espejo representa uno de los bucles."'
+  - "\"Para cada bucle, escrib\xED varias declaraciones en las cuales cada uno contiene
+    un digito que puede ser un posible n\xFAmero para la contrase\xF1a.\""
+  - "\"Solo hay una declaraci\xF3n que es verdadera por cada bucle. Asi, los que
+    no tienen la informaci\xF3n correcta no sabr\xE1n que n\xFAmero tomar.\""
+  - "\"Es la contrase\xF1a perfecta!!\""

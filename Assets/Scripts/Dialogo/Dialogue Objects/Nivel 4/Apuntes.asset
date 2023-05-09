@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbc8a07e76f0ea47bdeb81cf16919c3, type: 3}
+  m_Name: Apuntes
+  m_EditorClassIdentifier: 
+  dialogue:
+  - La nota tiene algo escrito...
+  - "\"Alguien se llev\xF3 mis apuntes sobre bloques. Sin ellos no puedo conseguir
+    la llave para el otro laboratorio.\""
+  - "\"La contrase\xF1a lo base en un orden alterado de los diferentes bloques de
+    un sistema de archivos.\""
+  - '"Normalmente el orden de bloques: Super Bloque, Bloque de arranque, Mesa Inode,
+    Bloque de datos."'
+  - '"Normalmente el orden de bloques: Super Bloque, Bloque de arranque, Mesa Inode,
+    Bloque de datos."'
+  - "\"Pero los alter\xE9 para causar confusi\xF3n\""

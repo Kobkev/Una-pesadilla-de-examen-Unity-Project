@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccdca808bb1365044b4b39033a87f55e, type: 3}
+  m_Name: Acertijo
+  m_EditorClassIdentifier: 
+  Id: 9
+  uiDisplay: {fileID: 21300000, guid: db427fab3e94daf4caa704d9314a77a1, type: 3}
+  type: 0
+  description: "- Quise crear un una TAREA que seREPITIERA dentro del programa.\n-
+    Lo realic\xE9 con una ESTRUCTURA condicional.\n- Us\xE9 el COMANDO para establecer
+    una condicional.\n- Hice que IMPRIMIERA un mensaje.\n- Hice que LEYERA una entrada
+    de teclado.\n- Busqu\xE9 por errores en el programa..\n\n"
+  data:
+    Name: 
+    Id: 10
+    description: 
+    type: 0

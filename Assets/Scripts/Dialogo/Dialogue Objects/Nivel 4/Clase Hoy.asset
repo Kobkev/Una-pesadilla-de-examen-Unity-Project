@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcbc8a07e76f0ea47bdeb81cf16919c3, type: 3}
+  m_Name: Clase Hoy
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Las notas dicen lo siguiente...
+  - "\"La clase de hoy se enfocar\xE1 en las disposiciones de seguridad que son proporcionadas
+    por UNIX.\""
+  - '"Espero y hayan traido sus libros para estudiar este tema"'
+  - "\"La primera disposici\xF3n proporciona una identificaci\xF3n de usuario y una
+    contrase\xF1a \xFAnicas al usuario, para que una persona desconocida o no autorizada
+    no pueda acceder a ella.\""
+  - Ya no hay mas hojas sobre el tema. Rayos!

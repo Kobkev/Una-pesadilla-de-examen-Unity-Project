@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef0d550f07a06b2488bfa3110a7b9bbc, type: 3}
+  m_Name: Llave Pasillo Primer Piso
+  m_EditorClassIdentifier: 
+  Id: 22
+  uiDisplay: {fileID: 21300000, guid: bdefac20d9732ef47bf38310928cfaa5, type: 3}
+  type: 1
+  description: "Al fin encontr\xE9 la llave para llegar del otro lado del bloqueo!"
+  data:
+    Name: 
+    Id: -1
+    description: 
+    type: 0

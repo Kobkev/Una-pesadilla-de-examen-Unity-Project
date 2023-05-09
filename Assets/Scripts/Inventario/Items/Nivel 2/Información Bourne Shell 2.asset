@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccdca808bb1365044b4b39033a87f55e, type: 3}
+  m_Name: "Informaci\xF3n Bourne Shell 2"
+  m_EditorClassIdentifier: 
+  Id: 16
+  uiDisplay: {fileID: 21300000, guid: ae496f5dad56ea645b72d374a0376368, type: 3}
+  type: 0
+  description: "Para las instrucciones introducidas en un Bourne Shell, se tiene
+    una limitaci\xF3n al intentar la repetici\xF3n de la mismas instrucci\xF3n. En
+    el caso que se desea realizar la misma acci\xF3n otraves, es necesario escribir
+    el comando de nuevo."
+  data:
+    Name: 
+    Id: -1
+    description: 
+    type: 0
