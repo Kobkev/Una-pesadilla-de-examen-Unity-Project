@@ -23,6 +23,7 @@ ExportedObj/
 *.booproj
 *.svd
 *.pdb
+*.meta
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -41,4 +42,24 @@ sysinfo.txt
 README.md
 referencemap.xml
 
+/3Dfrk/
+/Abandoned_Asylum/
+/asset_store/
+/ASTROFISH_GAMES/
+/Cleaner/
+/Day-Night_Skyboxes/
+/Distant_Lands_Free_Characters/
+/Flooded_Grounds/
+/FurnishedCabin/
+/Lanterns_and_candles/
+/LowPolyOfficeProps_LITE/
+/Mirza_Beig/
+/Nature Realistic Props Pack/
+/Plugins/
+/Resources/
+/QA_Books/
+/Rocks and Boulders 2/
+/Standard Assets/
+/Starfield Skybox/
+/Stone Fountain/
 
